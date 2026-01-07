@@ -1,0 +1,46 @@
+[
+    {
+      "id": "a1f2c3d4-1111-4aaa-8bbb-000000000001",
+      "type": "Diet"
+    },
+    {
+      "id": "a1f2c3d4-1111-4aaa-8bbb-000000000002",
+      "type": "Physical Activity"
+    },
+    {
+      "id": "a1f2c3d4-1111-4aaa-8bbb-000000000003",
+      "type": "Sleep"
+    },
+    {
+      "id": "a1f2c3d4-1111-4aaa-8bbb-000000000004",
+      "type": "Happiness"
+    },
+    {
+      "id": "a1f2c3d4-1111-4aaa-8bbb-000000000005",
+      "type": "Smoking/Vaping"
+    },
+    {
+      "id": "a1f2c3d4-1111-4aaa-8bbb-000000000006",
+      "type": "Social Network"
+    },
+    {
+      "id": "a1f2c3d4-1111-4aaa-8bbb-000000000007",
+      "type": "Helping Others"
+    },
+    {
+      "id": "a1f2c3d4-1111-4aaa-8bbb-000000000008",
+      "type": "Work Satisfaction"
+    },
+    {
+      "id": "a1f2c3d4-1111-4aaa-8bbb-000000000009",
+      "type": "Alcohol"
+    },
+    {
+      "id": "a1f2c3d4-1111-4aaa-8bbb-000000000010",
+      "type": "Stress Management"
+    },
+    {
+      "id": "a1f2c3d4-1111-4aaa-8bbb-000000000011",
+      "type": "Regular Monitoring (BP, Blood Sugar)"
+    }
+  ]
